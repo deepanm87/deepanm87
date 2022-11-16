@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepanm87
-- 👀 I’m interested in software engineer/tester jobs
-- 🌱 I’m currently learning ... Python and web development
+- 👀 I’m interested in software engineer/web developer jobs
+- 🌱 I’m currently learning ... Java and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
