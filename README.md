@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepanm87
-- 👀 I’m interested in....data science and machine learning
-- 🌱 I’m currently learning ... machine learning
+- 👀 I’m interested in....technical support and web development
+- 🌱 I’m currently learning ... front end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
