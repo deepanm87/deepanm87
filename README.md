@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepanm87
+- 👋 Hi, I’m Deepan
 - 👀 I’m interested in.... software engineering and web development
 - 🌱 I’m currently learning ... front end web development
 - 💞️ I’m looking to collaborate on ...
