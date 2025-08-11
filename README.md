@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end developer
 -------------------
 
-an insatiable appetite for written code. Interested in building web apps using ReactJS
+an insatiable appetite for written code. Interested in building web apps using React and NextJS
 
 *   🌍  I'm based in Toronto
-*   🧠  I'm learning React
+*   🧠  I'm learning React and NextJS
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I'm an aspiring writer
 *   Skills 
