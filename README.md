@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepan Murugan
 ======================================================================================================================================
 
-Front end developer
+Full-stack developer
 -------------------
 
-an insatiable appetite for written code. Interested in building web apps using React and NextJS
+I have an insatiable appetite for written code. Interested in building web apps using React and NextJS
 
 *   🌍  I'm based in Toronto
 *   🧠  I'm learning React and NextJS
